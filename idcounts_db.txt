@@ -1,0 +1,2 @@
+next_customer_id: 8
+next_employee_id: 3
