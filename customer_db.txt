@@ -1,0 +1,8 @@
+ID: 1, Name: abc, Username: abc, Password: demo1, Active: true, Loan Amount: 0, Loan Status: NA, FD Amount: 0, Account Balance: 100
+ID: 2, Name: xyz, Username: xyz, Password: demo, Active: true, Loan Amount: 0, Loan Status: NA, FD Amount: 0, Account Balance: 100
+ID: 3, Name: pqr, Username: pqr, Password: demo, Active: true, Loan Amount: 0, Loan Status: NA, FD Amount: 0, Account Balance: 100
+ID: 4, Name: giti, Username: giti, Password: demo, Active: true, Loan Amount: 100, Loan Status: Approved, FD Amount: 0, Account Balance: 100
+ID: 5, Name: tanvi, Username: tanvi, Password: demo, Active: true, Loan Amount: 0, Loan Status: NA, FD Amount: 0, Account Balance: 1000
+ID: 6, Name: rishika, Username: rishika, Password: demo, Active: true, Loan Amount: 0, Loan Status: NA, FD Amount: 0, Account Balance: 2000
+ID: 7, Name: sweety, Username: sweety, Password: demo, Active: true, Loan Amount: 0, Loan Status: NA, FD Amount: 0, Account Balance: 3000
+ID: 8, Name: as, Username: as, Password: demo, Active: true, Loan Amount: 0, Loan Status: NA, FD Amount: 0, Account Balance: 2929

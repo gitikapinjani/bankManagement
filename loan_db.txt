@@ -1,0 +1,1 @@
+CustomerID: 4, LoanAmount: 100, Status: Approved, AssignedEmployee: 1, AppliedDate: 2024-10-20
